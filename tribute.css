@@ -1,0 +1,17 @@
+body{
+    text-align:center;
+    background-color:rgb(196,204,204);         
+    font-family: 'Indie Flower', cursive;
+}
+
+h1 {
+    font-family: 'Orbitron', sans-serif;     
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+#img-caption{
+  width:auto;
+  text-align:center;
+}
